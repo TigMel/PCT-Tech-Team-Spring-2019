@@ -1,0 +1,6 @@
+team-website/build
+team-website/node_modules
+team-website/.pnp
+team-website/coverage
+.idea/
+.DS_Store
