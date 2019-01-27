@@ -9,9 +9,9 @@ class App extends Component {
         <h1>PCT Tech Team Spring 2019 Website</h1>
           <h4>Resources</h4>
           <ul>
-              <li>GitHub: https://github.com/ChiragAswani/PCT-Tech-Team-Spring-2019</li>
-              <li>Google Drive: https://drive.google.com/drive/u/0/folders/0AN-dML6F20W8Uk9PVA</li>
-              <li>Project Repository: ____</li>
+              <li><a href={'https://github.com/ChiragAswani/PCT-Tech-Team-Spring-2019'}>Team Resources</a></li>
+              <li><a href={'https://drive.google.com/drive/u/0/folders/0AN-dML6F20W8Uk9PVA'}>Google Drive</a></li>
+              <li><a href={'https://sneakytime.com/rr/#.XE4res9Kgxc'}>Project Repository</a></li>
           </ul>
           <h4>Team</h4>
           <ul>
