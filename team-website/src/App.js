@@ -23,6 +23,7 @@ class App extends Component {
               <li>Jennifer Roh</li>
               <li>Randy Richardson</li>
               <li>Justin Ching</li>
+              <li>Tigran Melkonian</li>
           </ul>
           <h4>Trello Board</h4>
           <blockquote className="trello-board-compact">
